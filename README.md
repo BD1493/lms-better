@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Utopia
 Utopia Unblocker unblocks hundreds of millions of websites and bypasses web restrictions with ease.
 The most revolutionary proxy service out there, adding unprecendented technology and algorithms to circumvent blocks.
@@ -69,3 +70,6 @@ Need help deploying or want to suggest features?
 <p align="center">
   <strong>⭐ Star this repository if Utopia helps you!</strong>
 </p>
+=======
+LMS1493 is a great app.
+>>>>>>> a54e7f4339ba9bdefa37b46f2c2433295f0b8a59
