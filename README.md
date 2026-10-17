@@ -28,7 +28,7 @@ These features can be enabled/disabled in the Settings page in LMS1493:
    * Access an integrated dev panel by clicking the ⚙️ icon while browsing.
 * **👾 More Games**
   * Added gn-math games and Duckmath games.
-* **🗞️ New Features Adding*
+* **🗞️ New Features Adding**
   * I will be adding Cherri Unblocker into it too.    
 
 ---
