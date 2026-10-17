@@ -1,15 +1,15 @@
 
-# Utopia
-Utopia Unblocker unblocks hundreds of millions of websites and bypasses web restrictions with ease.
+# LMS1493
+LMS1493 unblocks hundreds of millions of websites and bypasses web restrictions with ease.
 The most revolutionary proxy service out there, adding unprecendented technology and algorithms to circumvent blocks.
 
 Trusted by over **22 million users** and counting.
 
 ## Special Features
-These features can be enabled/disabled in the Settings page in Utopia:
+These features can be enabled/disabled in the Settings page in LMS1493:
  * **🔒 Hidden Mode**
-   * Utopia revolutionized the world by being the first ever website to have about:blank cloaking
-   * **Hides Utopia completely from your history** and **prevents extensions** such as GoGuardian **from seeing your screen**
+   * LMS1493 revolutionized the world by being the first ever website to have about:blank cloaking
+   * **Hides LMS1493 completely from your history** and **prevents extensions** such as GoGuardian **from seeing your screen**
  * **🚫 Anti-Closing**
    - Prevents extensions such as GoGuardian from closing the tab you're on
  * **🎭 Tab Cloak**
@@ -30,27 +30,21 @@ These features can be enabled/disabled in the Settings page in Utopia:
 
 ---
 ## 📦 Deployment
-Easily deploy your own instance of Utopia using one of the platforms below:
+Easily deploy your own instance of LMS1493 using one of the platforms below:
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/UtopiaUnblocker/Utopia)
-<br>
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/UtopiaUnblocker/Utopia)
-<br>
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/UtopiaUnblocker/Utopia)
-<br>
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UtopiaUnblocker/Utopia)
-<br>
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/UtopiaUnblocker/Utopia)
-<br>
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/UtopiaUnblocker/Utopia)
-<br>
-[![Deploy To Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/UtopiaUnblocker/Utopia&branch=main&name=Utopia)
+Use https://Bonto.dev
+First create an account using your email or use a temp one
+Create an App and choose import
+Then enter this https://github.com/BD1493/lms-better.git
+Give it a name a subdomain name
+Wait for it to import and it is the automatically deployed.
+Have fun unblocking!!
 
 ### Manual Setup
 ```bash
 # Clone the repository
-git clone https://github.com/UtopiaUnblocker/Utopia.git
-cd Utopia
+git clone (https://github.com/BD1493/lms-better.git)
+cd lms-better
 
 # Install dependencies
 npm install
@@ -59,16 +53,8 @@ npm install
 npm start
 ```
 
----
-## 💬 Community & Support
-Need help deploying or want to suggest features?
-- Join the official Discord: **[discord.gg/hFZC5cgsmq](https://discord.gg/hFZC5cgsmq)**
-
-[![Join us on Discord](https://invidget.switchblade.xyz/hFZC5cgsmq?theme=dark)](https://discord.gg/unblockers)
-
----
 <p align="center">
-  <strong>⭐ Star this repository if Utopia helps you!</strong>
+  <strong>⭐ Star this repository if LMS1493 helps you!</strong>
 </p>
 =======
 LMS1493 is a great app.
