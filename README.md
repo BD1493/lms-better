@@ -26,7 +26,10 @@ These features can be enabled/disabled in the Settings page in LMS1493:
    * Blocks ads globally, meaning a faster and privacy-focused browing experience.
 * **🛠 Dev Tools**
    * Access an integrated dev panel by clicking the ⚙️ icon while browsing.
-* **And more to come...**
+* **👾 More Games**
+  * Added gn-math games and Duckmath games.
+* **🗞️ New Features Adding*
+  * I will be adding Cherri Unblocker into it too.    
 
 ---
 ## 📦 Deployment
@@ -43,7 +46,7 @@ Have fun unblocking!!
 ### Manual Setup
 ```bash
 # Clone the repository
-git clone (https://github.com/BD1493/lms-better.git)
+git clone https://github.com/BD1493/lms-better.git
 cd lms-better
 
 # Install dependencies
