@@ -1,5 +1,3 @@
-
-# LMS1493
 LMS1493 unblocks hundreds of millions of websites and bypasses web restrictions with ease.
 The most revolutionary proxy service out there, adding unprecendented technology and algorithms to circumvent blocks.
 
@@ -59,6 +57,4 @@ npm start
 <p align="center">
   <strong>⭐ Star this repository if LMS1493 helps you!</strong>
 </p>
-=======
-LMS1493 is a great app.
 
